@@ -1,0 +1,13 @@
+.CartWidget {
+    width: auto;
+    font-size: 5px;
+    order: 1;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.CartImg {
+    margin-right: 5px;
+    width: 40px;
+    margin-left: 80%;
+}

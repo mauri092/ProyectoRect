@@ -1,11 +1,11 @@
 # Mi proyecto de e-commerce
-## Es una web de Donna Civetta 
+## Es una web de GrowShop 
 ### ----------------------------------------------
 ### Esta web fue construida con la libreria de JavaScript React
 ####
 ### ----------------------------------------------
 # Instalaciones para corrrer el proyecto
-##### git clone https://github.com/Valensoler/EntregaFinal_Soler.git
+##### git clone https://github.com/mauri092/ProyectoRect.git
 ##### npm o react-router-dom
 ##### npm install sweetalert2
 ##### 
@@ -32,9 +32,10 @@
 ### ----------------------------------------------
 #VARIABLES DE ENTORNO
 ### ----------------------------------------------
-##### REACT_APP_apiKey=AIzaSyCtl9kyZztvTLCFeTbbEN6lrV-QUlLjqkU
-### REACT_APP_authDomain=donna-civetta.firebaseapp.com
-### REACT_APP_projectId=donna-civetta
-### REACT_APP_storageBucket=donna-civetta.appspot.com
-### REACT_APP_messagingSenderId= 224627349997
-### REACT_APP_appId=1:224627349997:web:218c9d1e60b5175c796fe4
+
+### REACT_APP_apiKey=AIzaSyC_jVEmcVyaQO4TlMupRw2VM43Rjp37E_Y
+### REACT_APP_authDomain=growshop-ecommerce.firebaseapp.com
+### REACT_APP_projectId=growshop-ecommerce
+### REACT_APP_storageBucket=growshop-ecommerce.appspot.com
+### REACT_APP_messagingSenderId= 16708316093
+### REACT_APP_appId=1:16708316093:web:70fe2d92903515b835c0d4
